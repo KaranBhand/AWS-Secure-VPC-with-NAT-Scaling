@@ -116,7 +116,7 @@ The architecture features:
 - **Scaling Issues**: Review Auto Scaling policies and check for any quota limitations on instance counts.
 
 ## Contributors
-- Project by [Your Name or Team Name]
+- Project by Karan Bhand
 
 ## License
 This project is licensed under the MIT License.
